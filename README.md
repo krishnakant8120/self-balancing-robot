@@ -56,7 +56,7 @@ This project is released under the **MIT License**.
 
 ---
 
-## 👥 Authors
-- Anushka Singh  
-- Krishnakant Lodhi  
+## 👥 Team Members
+- Krishnakant Lodhi
+- Anushka Singh    
 - Gyanendra Singh  
